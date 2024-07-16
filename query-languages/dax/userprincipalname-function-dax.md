@@ -20,4 +20,6 @@ This expression has no parameters.
   
 ## Return value
 
-The userprincipalname at connection time.
+The userprincipalname at connection time. 
+
+//please add some context here about if/how this function will behave when compared against UPN's vs Primary Email Address or an Alternate Login ID... Small gap in current docs, unless someone can point me in the direction of where that is described.
